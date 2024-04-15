@@ -1,0 +1,18 @@
+button{
+    font-size: 1px;
+}
+.Sidelist{
+    height: auto;
+   
+}
+.Sidelist .row{
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    list-style-type: none;
+    margin: 0%;
+    display: flex;
+    flex-direction: row;
+   
+
+}
