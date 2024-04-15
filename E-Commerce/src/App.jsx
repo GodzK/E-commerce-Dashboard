@@ -1,5 +1,5 @@
 import * as React from 'react';
-
+import "./App.css"
 import {BrowserRouter,Routes,Route} from "react-router-dom";
 import Customer from './components/Customer';
 import Inventory from './components/Inventory';
@@ -16,7 +16,6 @@ function App() {
       <Route path='/Customer' element={<Customer/>}></Route>
       <Route path='Inventory' element={<Inventory/>}></Route>
       <Route path='SalesReport' element={<SalesReport/>}></Route>
-      
     </Routes>
     </BrowserRouter>
    
