@@ -1,0 +1,40 @@
+.ov-ct {
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .Overview-container {
+    padding-top: 7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 10px;
+    overflow-x: hidden;
+  }
+  
+  .growth-rate,
+  .ss-rate,
+  .top-rate {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+  }
+  
+  .Overview-item {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .chart-container {
+    max-width: 100%;
+    overflow-x: auto; /* เพื่อให้เกิดการ scroll กรณีที่ข้อมูลมีความกว้างมากเกินไป */
+  }
+  
+  @media (max-width: 768px) {
+    .Overview-container {
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      padding-top: 5rem; /* ปรับค่า padding-top ให้เหมาะสมกับหน้าจอขนาดเล็ก */
+      overflow-x: hidden;
+    }
+  
+    .Overview-item {
+      margin: 0 auto; /* จัดให้ตัวข้อมูลอยู่กึ่งกลางในหน้าจอ */
+    }
+  }
+  
