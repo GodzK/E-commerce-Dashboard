@@ -1,15 +1,15 @@
 import React, { useState } from 'react';
 import './Customer.css';
 import data from './data.json';
-
+import AssignmentIndIcon from '@mui/icons-material/AssignmentInd';
 function Customer() {
   const [search, setSearch] = useState('');
 
   return (
     <div className='customer-container'>
-      <h1 style={{ textAlign: "center", paddingTop: "3rem" }}>Customer</h1>
+      <h1 style={{ textAlign: "center", paddingTop: "3rem" ,}}>Customer<AssignmentIndIcon /></h1>
       <div className="customer-page">
-        <input type="text" name="search" className="cus-input" placeholder="Search" value={search} onChange={(e) => setSearch(e.target.value.toLowerCase())} />
+        <input type="text" name="search" className="cus-input" placeholder="ค้นข้อมูล,ชื่อ,สินคา,email,วันที่สมัคร" value={search} onChange={(e) => setSearch(e.target.value.toLowerCase())} />
         <div className="table-container">
           <table>
             <thead>
