@@ -1,8 +1,13 @@
 import React from "react";
 import "./Overview.css";
+import { Link, } from 'react-router-dom';
 import { LineChart } from "@mui/x-charts/LineChart";
 import { BarChart } from "@mui/x-charts/BarChart";
-
+import Card from '@mui/material/Card';
+import CardActions from '@mui/material/CardActions';
+import CardContent from '@mui/material/CardContent';
+import Button from '@mui/material/Button';
+import Typography from '@mui/material/Typography';
 const uData = [4000, 3000, 2000, 2780, 1890, 2390, 3490];
 const pData = [2400, 1398, 9800, 3908, 4800, 3800, 4300];
 const onLine = [4000, 3000, 2000, 2780, 1890];
@@ -99,6 +104,33 @@ function Overview() {
                 xAxis={[{ data: top5Labels, scaleType: "band" }]}
               />
             </div>
+          </div>
+        </div>
+        <div className="Overview-item" style={{ maxWidth: "356px" }}>
+          <div>
+          <Card sx={{ minWidth: 275 }}>
+      <CardContent>
+        <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
+          <br />
+          <br />
+           User
+        </Typography>
+        <Typography variant="h5" component="div" style={{textAlign:"center"}}>
+         New User
+        </Typography>
+        <Typography sx={{ mb: 1.5 }} color="text.secondary">
+        <br /><br />
+        </Typography>
+        <Typography variant="body2">
+          <h1>1.4M</h1>
+          <br />
+          {'"50M last 3 month"'}
+        </Typography>
+      </CardContent>
+      <CardActions>
+        <Link to="/Customer" ><Button size="small">Click to Customer</Button></Link>
+      </CardActions>
+    </Card>
           </div>
         </div>
       </div>

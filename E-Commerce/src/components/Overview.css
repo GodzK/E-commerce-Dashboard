@@ -1,7 +1,10 @@
 .ov-ct {
-    background-color: rgb(0, 0, 0);
+  background: linear-gradient(114deg, rgba(140,47,189,1) 0%, rgba(255,95,246,1) 14%, rgba(92,120,201,1) 74%, rgba(0,134,175,1) 100%, rgba(0,212,255,1) 100%);
   }
-  
+  .overview-statistic{
+    background-color: rgb(117, 117, 117);
+    border-radius: 15px;
+  }
   .Overview-container {
     padding-top: 7rem;
     display: grid;

@@ -1,0 +1,602 @@
+[{
+    "id": "57691-119",
+    "grocery": "Thyme - Fresh",
+    "price": "$19.07",
+    "date": "10/28/2023",
+    "amount": 0
+  }, {
+    "id": "68084-310",
+    "grocery": "Coriander - Seed",
+    "price": "$39.85",
+    "date": "8/30/2022",
+    "amount": 9518
+  }, {
+    "id": "51645-602",
+    "grocery": "Bagel - Everything",
+    "price": "$24.91",
+    "date": "11/5/2022",
+    "amount": 5682
+  }, {
+    "id": "0268-0946",
+    "grocery": "Vinegar - Champagne",
+    "price": "$11.68",
+    "date": "2/2/2024",
+    "amount": 8568
+  }, {
+    "id": "52124-0103",
+    "grocery": "Water - Mineral, Natural",
+    "price": "$10.52",
+    "date": "4/24/2022",
+    "amount": 0
+  }, {
+    "id": "55312-340",
+    "grocery": "Pork - Sausage Casing",
+    "price": "$2.86",
+    "date": "2/20/2023",
+    "amount": 0
+  }, {
+    "id": "65044-3549",
+    "grocery": "Island Oasis - Raspberry",
+    "price": "$39.83",
+    "date": "6/13/2022",
+    "amount": 4544
+  }, {
+    "id": "66869-147",
+    "grocery": "Sauce - Thousand Island",
+    "price": "$3.70",
+    "date": "7/6/2023",
+    "amount": 8054
+  }, {
+    "id": "65044-0545",
+    "grocery": "Soup - Cream Of Potato / Leek",
+    "price": "$23.33",
+    "date": "7/12/2023",
+    "amount": 9641
+  }, {
+    "id": "63304-337",
+    "grocery": "Madeira",
+    "price": "$39.71",
+    "date": "11/23/2022",
+    "amount": 6439
+  }, {
+    "id": "54738-902",
+    "grocery": "Grenadillo",
+    "price": "$20.56",
+    "date": "10/5/2023",
+    "amount": 5478
+  }, {
+    "id": "0268-1329",
+    "grocery": "Bay Leaf Fresh",
+    "price": "$12.69",
+    "date": "7/13/2023",
+    "amount": 6103
+  }, {
+    "id": "0363-1009",
+    "grocery": "Honey - Liquid",
+    "price": "$27.55",
+    "date": "5/31/2022",
+    "amount": 4435
+  }, {
+    "id": "66116-437",
+    "grocery": "Beef - Salted",
+    "price": "$36.95",
+    "date": "2/24/2023",
+    "amount": 4099
+  }, {
+    "id": "49349-975",
+    "grocery": "Muffin - Mix - Bran And Maple 15l",
+    "price": "$11.96",
+    "date": "12/7/2023",
+    "amount": 8639
+  }, {
+    "id": "0363-1303",
+    "grocery": "Mousse - Banana Chocolate",
+    "price": "$28.84",
+    "date": "2/26/2024",
+    "amount": 9556
+  }, {
+    "id": "64117-202",
+    "grocery": "Nectarines",
+    "price": "$6.03",
+    "date": "2/11/2024",
+    "amount": 4485
+  }, {
+    "id": "55312-271",
+    "grocery": "Bagelers - Cinn / Brown Sugar",
+    "price": "$4.84",
+    "date": "2/10/2023",
+    "amount": 8833
+  }, {
+    "id": "52125-719",
+    "grocery": "Calypso - Strawberry Lemonade",
+    "price": "$19.53",
+    "date": "6/18/2022",
+    "amount": 8478
+  }, {
+    "id": "52125-169",
+    "grocery": "Zucchini - Mini, Green",
+    "price": "$13.19",
+    "date": "10/22/2023",
+    "amount": 7754
+  }, {
+    "id": "49348-208",
+    "grocery": "Daikon Radish",
+    "price": "$28.81",
+    "date": "4/22/2023",
+    "amount": 4777
+  }, {
+    "id": "64117-142",
+    "grocery": "Ocean Spray - Kiwi Strawberry",
+    "price": "$4.59",
+    "date": "9/2/2022",
+    "amount": 8312
+  }, {
+    "id": "67544-890",
+    "grocery": "Pate - Cognac",
+    "price": "$30.86",
+    "date": "9/29/2023",
+    "amount": 6420
+  }, {
+    "id": "50436-3000",
+    "grocery": "Arizona - Plum Green Tea",
+    "price": "$35.96",
+    "date": "5/7/2023",
+    "amount": 4595
+  }, {
+    "id": "55154-2099",
+    "grocery": "Curry Paste - Green Masala",
+    "price": "$3.40",
+    "date": "8/14/2023",
+    "amount": 9239
+  }, {
+    "id": "52768-001",
+    "grocery": "Dried Peach",
+    "price": "$28.68",
+    "date": "3/7/2024",
+    "amount": 4233
+  }, {
+    "id": "43269-697",
+    "grocery": "Steel Wool",
+    "price": "$8.66",
+    "date": "11/2/2023",
+    "amount": 9871
+  }, {
+    "id": "58118-0343",
+    "grocery": "Sauce - Rosee",
+    "price": "$11.65",
+    "date": "7/15/2023",
+    "amount": 7433
+  }, {
+    "id": "0179-0153",
+    "grocery": "Wine - Fontanafredda Barolo",
+    "price": "$19.81",
+    "date": "10/30/2023",
+    "amount": 4332
+  }, {
+    "id": "0074-3165",
+    "grocery": "Crackers - Graham",
+    "price": "$24.63",
+    "date": "10/29/2023",
+    "amount": 6081
+  }, {
+    "id": "47781-297",
+    "grocery": "Soup Campbells Split Pea And Ham",
+    "price": "$26.31",
+    "date": "2/5/2024",
+    "amount": 6011
+  }, {
+    "id": "51060-037",
+    "grocery": "Pork - Ham Hocks - Smoked",
+    "price": "$6.23",
+    "date": "8/20/2023",
+    "amount": 5945
+  }, {
+    "id": "0085-1374",
+    "grocery": "Sauerkraut",
+    "price": "$23.54",
+    "date": "12/17/2022",
+    "amount": 7321
+  }, {
+    "id": "63304-626",
+    "grocery": "Basil - Thai",
+    "price": "$10.07",
+    "date": "4/19/2023",
+    "amount": 5119
+  }, {
+    "id": "16590-147",
+    "grocery": "Sambuca - Opal Nera",
+    "price": "$6.10",
+    "date": "12/17/2023",
+    "amount": 5569
+  }, {
+    "id": "63691-016",
+    "grocery": "Beef - Tenderloin",
+    "price": "$3.17",
+    "date": "7/4/2023",
+    "amount": 8525
+  }, {
+    "id": "43547-274",
+    "grocery": "Butter - Unsalted",
+    "price": "$13.51",
+    "date": "9/27/2023",
+    "amount": 7240
+  }, {
+    "id": "43742-0184",
+    "grocery": "Table Cloth 90x90 White",
+    "price": "$14.05",
+    "date": "1/4/2024",
+    "amount": 7259
+  }, {
+    "id": "52125-332",
+    "grocery": "Table Cloth 54x72 White",
+    "price": "$20.26",
+    "date": "5/23/2023",
+    "amount": 8272
+  }, {
+    "id": "58118-3339",
+    "grocery": "Bulgar",
+    "price": "$32.63",
+    "date": "1/14/2023",
+    "amount": 9870
+  }, {
+    "id": "48871-008",
+    "grocery": "Sour Cream",
+    "price": "$37.07",
+    "date": "4/21/2022",
+    "amount": 4320
+  }, {
+    "id": "55154-2861",
+    "grocery": "Mint - Fresh",
+    "price": "$18.59",
+    "date": "11/19/2023",
+    "amount": 9109
+  }, {
+    "id": "62032-124",
+    "grocery": "Oil - Canola",
+    "price": "$30.26",
+    "date": "8/11/2023",
+    "amount": 4128
+  }, {
+    "id": "66467-2170",
+    "grocery": "Chicken - Leg, Boneless",
+    "price": "$10.09",
+    "date": "1/24/2024",
+    "amount": 4191
+  }, {
+    "id": "52125-156",
+    "grocery": "Wine - German Riesling",
+    "price": "$6.10",
+    "date": "3/13/2024",
+    "amount": 5308
+  }, {
+    "id": "0173-0829",
+    "grocery": "Red Currants",
+    "price": "$23.02",
+    "date": "3/20/2024",
+    "amount": 5591
+  }, {
+    "id": "47219-104",
+    "grocery": "Bread Base - Italian",
+    "price": "$15.69",
+    "date": "2/19/2023",
+    "amount": 7296
+  }, {
+    "id": "67544-510",
+    "grocery": "Beef Flat Iron Steak",
+    "price": "$20.88",
+    "date": "4/12/2024",
+    "amount": 7108
+  }, {
+    "id": "0363-6170",
+    "grocery": "Cornish Hen",
+    "price": "$22.99",
+    "date": "5/13/2023",
+    "amount": 9557
+  }, {
+    "id": "0378-0210",
+    "grocery": "Fennel",
+    "price": "$10.23",
+    "date": "12/12/2022",
+    "amount": 8337
+  }, {
+    "id": "68788-9750",
+    "grocery": "Wine - Niagara,vqa Reisling",
+    "price": "$25.23",
+    "date": "5/28/2023",
+    "amount": 4425
+  }, {
+    "id": "62670-4826",
+    "grocery": "Halibut - Steaks",
+    "price": "$6.10",
+    "date": "3/27/2023",
+    "amount": 8165
+  }, {
+    "id": "0113-0958",
+    "grocery": "Squid - U 5",
+    "price": "$37.04",
+    "date": "5/20/2022",
+    "amount": 8394
+  }, {
+    "id": "0363-0362",
+    "grocery": "Truffle - Peelings",
+    "price": "$22.59",
+    "date": "11/30/2023",
+    "amount": 5027
+  }, {
+    "id": "56104-136",
+    "grocery": "Wine - Chianti Classica Docg",
+    "price": "$31.89",
+    "date": "11/8/2022",
+    "amount": 5234
+  }, {
+    "id": "68382-717",
+    "grocery": "Prunes - Pitted",
+    "price": "$20.64",
+    "date": "9/13/2022",
+    "amount": 7012
+  }, {
+    "id": "33261-082",
+    "grocery": "Turkey - Breast, Smoked",
+    "price": "$39.90",
+    "date": "1/1/2024",
+    "amount": 7690
+  }, {
+    "id": "66467-2560",
+    "grocery": "Pastrami",
+    "price": "$25.28",
+    "date": "2/17/2023",
+    "amount": 4989
+  }, {
+    "id": "50845-0173",
+    "grocery": "Bread - Mini Hamburger Bun",
+    "price": "$11.32",
+    "date": "7/27/2022",
+    "amount": 8563
+  }, {
+    "id": "62011-0036",
+    "grocery": "Sugar - Fine",
+    "price": "$13.40",
+    "date": "5/11/2023",
+    "amount": 7077
+  }, {
+    "id": "59667-0041",
+    "grocery": "White Fish - Filets",
+    "price": "$14.02",
+    "date": "7/20/2023",
+    "amount": 5953
+  }, {
+    "id": "0268-1524",
+    "grocery": "Bread Foccacia Whole",
+    "price": "$12.47",
+    "date": "4/13/2024",
+    "amount": 5049
+  }, {
+    "id": "43269-739",
+    "grocery": "Blueberries",
+    "price": "$21.80",
+    "date": "7/17/2022",
+    "amount": 9039
+  }, {
+    "id": "30142-120",
+    "grocery": "Bread - Raisin Walnut Pull",
+    "price": "$4.65",
+    "date": "6/13/2022",
+    "amount": 4717
+  }, {
+    "id": "59779-070",
+    "grocery": "Beans - French",
+    "price": "$33.63",
+    "date": "11/15/2023",
+    "amount": 8473
+  }, {
+    "id": "55692-200",
+    "grocery": "Beer - Mcauslan Apricot",
+    "price": "$29.60",
+    "date": "10/11/2022",
+    "amount": 9434
+  }, {
+    "id": "68878-118",
+    "grocery": "Cinnamon - Stick",
+    "price": "$32.81",
+    "date": "1/7/2023",
+    "amount": 4536
+  }, {
+    "id": "11410-914",
+    "grocery": "Bread - Ciabatta Buns",
+    "price": "$32.52",
+    "date": "7/15/2022",
+    "amount": 5828
+  }, {
+    "id": "16714-071",
+    "grocery": "Ecolab - Mikroklene 4/4 L",
+    "price": "$39.80",
+    "date": "7/15/2023",
+    "amount": 6466
+  }, {
+    "id": "57955-0724",
+    "grocery": "Ice Cream Bar - Rolo Cone",
+    "price": "$6.84",
+    "date": "1/15/2024",
+    "amount": 5084
+  }, {
+    "id": "59667-0101",
+    "grocery": "Cheese - Colby",
+    "price": "$16.86",
+    "date": "10/2/2023",
+    "amount": 7563
+  }, {
+    "id": "0699-7041",
+    "grocery": "Muffin - Zero Transfat",
+    "price": "$35.95",
+    "date": "8/19/2023",
+    "amount": 6701
+  }, {
+    "id": "62112-8045",
+    "grocery": "Strawberries - California",
+    "price": "$3.79",
+    "date": "12/22/2022",
+    "amount": 5400
+  }, {
+    "id": "0536-1355",
+    "grocery": "Scotch - Queen Anne",
+    "price": "$28.62",
+    "date": "3/4/2023",
+    "amount": 8879
+  }, {
+    "id": "49527-719",
+    "grocery": "Cream - 35%",
+    "price": "$19.50",
+    "date": "5/22/2022",
+    "amount": 7632
+  }, {
+    "id": "0615-7686",
+    "grocery": "Glass Clear 7 Oz Xl",
+    "price": "$27.98",
+    "date": "8/6/2023",
+    "amount": 8008
+  }, {
+    "id": "10812-379",
+    "grocery": "Chips Potato All Dressed - 43g",
+    "price": "$7.36",
+    "date": "10/13/2023",
+    "amount": 7254
+  }, {
+    "id": "33261-847",
+    "grocery": "Cookie Dough - Double",
+    "price": "$13.38",
+    "date": "6/15/2022",
+    "amount": 4283
+  }, {
+    "id": "67253-903",
+    "grocery": "Wine - Taylors Reserve",
+    "price": "$16.82",
+    "date": "3/4/2024",
+    "amount": 7184
+  }, {
+    "id": "43353-686",
+    "grocery": "Bay Leaf Fresh",
+    "price": "$27.66",
+    "date": "11/27/2023",
+    "amount": 5431
+  }, {
+    "id": "76084-3001",
+    "grocery": "Cheese - Brie,danish",
+    "price": "$28.80",
+    "date": "2/4/2024",
+    "amount": 7493
+  }, {
+    "id": "53389-563",
+    "grocery": "Tea - Herbal - 6 Asst",
+    "price": "$18.97",
+    "date": "12/3/2022",
+    "amount": 6151
+  }, {
+    "id": "12634-691",
+    "grocery": "Yogurt - French Vanilla",
+    "price": "$25.34",
+    "date": "5/29/2022",
+    "amount": 7287
+  }, {
+    "id": "51727-0632",
+    "grocery": "Potatoes - Peeled",
+    "price": "$5.08",
+    "date": "10/24/2022",
+    "amount": 9676
+  }, {
+    "id": "53808-0347",
+    "grocery": "Sugar - Individual Portions",
+    "price": "$13.19",
+    "date": "4/3/2024",
+    "amount": 6815
+  }, {
+    "id": "49288-0177",
+    "grocery": "Beef - Ox Tongue",
+    "price": "$14.15",
+    "date": "6/26/2022",
+    "amount": 5035
+  }, {
+    "id": "58232-1403",
+    "grocery": "Cake - Cake Sheet Macaroon",
+    "price": "$9.29",
+    "date": "2/22/2024",
+    "amount": 7370
+  }, {
+    "id": "11822-0680",
+    "grocery": "Jagermeister",
+    "price": "$21.25",
+    "date": "3/4/2024",
+    "amount": 4276
+  }, {
+    "id": "49349-857",
+    "grocery": "Puree - Kiwi",
+    "price": "$33.20",
+    "date": "10/7/2023",
+    "amount": 4693
+  }, {
+    "id": "44924-102",
+    "grocery": "Roe - White Fish",
+    "price": "$31.40",
+    "date": "9/27/2022",
+    "amount": 4798
+  }, {
+    "id": "63736-073",
+    "grocery": "Calvados - Boulard",
+    "price": "$32.87",
+    "date": "9/21/2023",
+    "amount": 6987
+  }, {
+    "id": "36987-3365",
+    "grocery": "Mushroom - Portebello",
+    "price": "$36.89",
+    "date": "7/10/2023",
+    "amount": 4071
+  }, {
+    "id": "0781-9110",
+    "grocery": "Tequila Rose Cream Liquor",
+    "price": "$29.66",
+    "date": "6/9/2023",
+    "amount": 6670
+  }, {
+    "id": "25000-115",
+    "grocery": "Cheese - Manchego, Spanish",
+    "price": "$3.48",
+    "date": "10/9/2023",
+    "amount": 6370
+  }, {
+    "id": "42669-998",
+    "grocery": "Water - Spring Water, 355 Ml",
+    "price": "$27.11",
+    "date": "6/7/2023",
+    "amount": 8198
+  }, {
+    "id": "36987-2610",
+    "grocery": "Pomegranates",
+    "price": "$8.21",
+    "date": "7/24/2023",
+    "amount": 6436
+  }, {
+    "id": "63843-509",
+    "grocery": "Oysters - Smoked",
+    "price": "$19.01",
+    "date": "1/4/2023",
+    "amount": 6302
+  }, {
+    "id": "10812-841",
+    "grocery": "Chicken - Livers",
+    "price": "$31.43",
+    "date": "5/27/2023",
+    "amount": 7892
+  }, {
+    "id": "57955-5566",
+    "grocery": "Lobster - Base",
+    "price": "$3.30",
+    "date": "11/27/2023",
+    "amount": 4548
+  }, {
+    "id": "43063-108",
+    "grocery": "Hummus - Spread",
+    "price": "$22.98",
+    "date": "6/24/2022",
+    "amount": 8957
+  }]
+  
